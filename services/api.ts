@@ -1,3 +1,4 @@
+'use client';
 /**
  * API service module
  * Handles all external API calls to JSONPlaceholder

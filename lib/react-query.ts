@@ -1,3 +1,5 @@
+'use client';
+
 /**
  * React Query configuration and setup
  * Initializes QueryClient with optimized default options

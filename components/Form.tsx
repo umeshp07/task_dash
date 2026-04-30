@@ -1,4 +1,5 @@
 
+'use client';
 
 /**
  * Contact Form Component

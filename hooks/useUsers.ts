@@ -1,3 +1,5 @@
+'use client';
+
 /**
  * Custom React Query hook for fetching users
  * Encapsulates all user-related API queries

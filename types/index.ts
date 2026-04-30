@@ -1,3 +1,4 @@
+'use client';
 /**
  * Type definitions for the application
  * Centralized location for all TypeScript interfaces and types
